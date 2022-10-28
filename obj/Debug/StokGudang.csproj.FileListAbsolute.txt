@@ -1,0 +1,21 @@
+C:\Users\62812\source\repos\StokGudang\StokGudang\bin\Debug\StokGudang.exe.config
+C:\Users\62812\source\repos\StokGudang\StokGudang\bin\Debug\StokGudang.exe
+C:\Users\62812\source\repos\StokGudang\StokGudang\bin\Debug\StokGudang.pdb
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.AssemblyReference.cache
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.Form1.resources
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.Properties.Resources.resources
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.GenerateResource.cache
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.exe
+C:\Users\62812\source\repos\StokGudang\StokGudang\obj\Debug\StokGudang.pdb
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\bin\Debug\StokGudang.exe.config
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\bin\Debug\StokGudang.exe
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\bin\Debug\StokGudang.pdb
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.AssemblyReference.cache
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.SuggestedBindingRedirects.cache
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.Form1.resources
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.Properties.Resources.resources
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.GenerateResource.cache
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.csproj.CoreCompileInputs.cache
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.exe
+E:\Magang\Mempelajari Visual Studio\Apps\Modul 10 & 11_StokGudang_Jadi\StokGudang\StokGudang\obj\Debug\StokGudang.pdb
